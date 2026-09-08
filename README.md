@@ -45,7 +45,7 @@
 
 <h2>Repository Structure</h2>
 <p>
-  <code>├── data/</code> Raw and cleaned datasets<br>
+  <code>├── data/</code> <em>Restricted: Datasets omitted from public repository due to institutional privacy policies.</em><br>
   <code>├── notebooks/</code> Jupyter notebooks for discovery, cleaning, and EDA<br>
   <code>├── visualizations/</code> Generated charts, distributions, and summary plots<br>
   <code>└── README.md</code> Project documentation
