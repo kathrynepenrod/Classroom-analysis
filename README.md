@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1187" height="587" alt="image" src="https://github.com/user-attachments/assets/179f640b-3a60-457a-a120-6b8239139819" />
+  <img width="1187" height="587" alt="image" src="https://github.com/user-attachments/assets/8ce022f6-d89f-440a-ae76-66cd8ccf18c5" />
   <h1>Classroom Trend Analysis</h1>
   <p><em>An exploratory data analysis project for a local school to uncover academic and operational trends within student performance and classroom metrics.</em></p>
 </div>
