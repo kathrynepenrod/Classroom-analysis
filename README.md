@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img width="53%" alt="image" src="https://github.com/user-attachments/assets/8ce022f6-d89f-440a-ae76-66cd8ccf18c5" />
+  <img width="52%" alt="image" src="https://github.com/user-attachments/assets/8ce022f6-d89f-440a-ae76-66cd8ccf18c5" />
   <img width="46.5%" alt="image" src="https://github.com/user-attachments/assets/0686ca7e-05f6-45a1-b9b4-29d4f4868bc7" />
 </div>
   <h1>Classroom Trend Analysis</h1>
