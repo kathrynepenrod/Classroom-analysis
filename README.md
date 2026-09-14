@@ -1,5 +1,7 @@
-<div align="center">
-  <img width="1187" height="587" alt="image" src="https://github.com/user-attachments/assets/8ce022f6-d89f-440a-ae76-66cd8ccf18c5" />
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img width="53%" alt="image" src="https://github.com/user-attachments/assets/8ce022f6-d89f-440a-ae76-66cd8ccf18c5" />
+  <img width="46.5%" alt="image" src="https://github.com/user-attachments/assets/0686ca7e-05f6-45a1-b9b4-29d4f4868bc7" />
+</div>
   <h1>Classroom Trend Analysis</h1>
   <p><em>An exploratory data analysis project for a local school to uncover academic and operational trends within student performance and classroom metrics.</em></p>
 </div>
@@ -36,9 +38,16 @@
 
 <h2>Key Findings and Conclusions</h2>
 
-<h3>1. TBD</h3>
 <ul>
-  <li><strong>TBD:</strong> TBD.</li>
+  <li>
+    <strong>Teacher Experience & Impact:</strong> My analysis revealed very weak correlations between seniority and test scores. While Subject 2 showed an initial dip followed by a spike, potentially driven by newly onboarded teachers, the small sample size limits my ability to draw definitive conclusions.
+  </li>
+  <li>
+    <strong>Test Score Progression:</strong> My analysis revealed a clear and measurable jump in scores when comparing pre-tests and post-tests, indicating overall student growth.
+  </li>
+  <li>
+    <strong>Skill Mastery & Course Grades:</strong> Because the grades in this dataset operate on a 1–4 scale and skew heavily toward high scores, combined with a limited student sample, approaches like category impact regressions, distribution skews, or missing work patterns lacked sufficient variance to generate meaningful insights. I did, however, uncover actionable insights for student support by analyzing cross-assessment gaps—identifying learners who excelled in discussions but struggled with projects, and vice versa.
+  </li>
 </ul>
 
 <hr>
